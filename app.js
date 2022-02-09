@@ -23,17 +23,19 @@ app.get('/info',function(req,res){
 
 
 
-
+app.get('/', function(req, res){
+    
+        res.end('diooo!!!');
+})
 
 app.get('/getUsers', function(req, res){
     fs.readFile(__dirname + "/" + "centers.json", 'utf8', function(err, data){
         console.log(data);
         res.end(data);
     });
-})
-var port = process.env.PORT
+});
 
-var server = app.listen(port, function(){
+var server = app.listen(process.env.PORT || 3000, function(){
     var host = server.address().address
     console.log("REST API demo app listening at http://%s:%s", host, )
 })
