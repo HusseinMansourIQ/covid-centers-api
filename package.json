@@ -4,9 +4,13 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "test",
-    "start": "node app.js"
-  },
+    "dev": "react-scripts start",
+    "start": "serve -s build",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "heroku-postbuild": "npm run build"
+    },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/HusseinMansourIQ/covid-centers-api.git"
@@ -22,6 +26,7 @@
   "homepage": "https://github.com/HusseinMansourIQ/covid-centers-api#readme",
   "dependencies": {
     "axios": "^0.25.0",
-    "cheerio": "^1.0.0-rc.10"
+    "cheerio": "^1.0.0-rc.10",
+    "serve": "^13.0.2"
   }
 }
