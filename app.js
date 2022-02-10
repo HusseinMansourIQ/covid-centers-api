@@ -4,7 +4,7 @@ const fs = require('fs');
 const axios = require('axios')
 const cheerio = require('cheerio')
 const info = []
-app.get('/info',function(req,res){
+app.get('/Statistics',function(req,res){
     axios.get('https://elaph.com/coronavirus-statistics-in-iraq.html')
         .then((response)=>{
             const html = response.data
@@ -28,7 +28,7 @@ app.get('/', function(req, res){
         res.end('diooo!!!');
 })
 
-app.get('/getUsers', function(req, res){
+app.get('/getAllHealthCenters', function(req, res){
     fs.readFile(__dirname + "/" + "centers.json", 'utf8', function(err, data){
         console.log(data);
         res.end(data);
