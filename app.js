@@ -4,6 +4,7 @@ const fs = require('fs');
 const axios = require('axios')
 const cheerio = require('cheerio')
 const info = []
+const port = process.env.PORT || 3000
 app.get('/info',function(req,res){
     axios.get('https://elaph.com/coronavirus-statistics-in-iraq.html')
         .then((response)=>{
@@ -35,7 +36,7 @@ app.get('/getUsers', function(req, res){
     });
 });
 
-var server = app.listen(process.env.PORT || 3000, function(){
+var server = app.listen(port, function(){
     var host = server.address().address
     console.log("REST API demo app listening at http://%s:%s", host, )
 })

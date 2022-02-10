@@ -21,9 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="dae75a30-2f1e-4e4a-9973-3eb31280a7cd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firebase-debug.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/centers.json" beforeDir="false" afterPath="$PROJECT_DIR$/centers.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +91,8 @@
       <workItem from="1644393779173" duration="600000" />
       <workItem from="1644424092489" duration="1068000" />
       <workItem from="1644467562528" duration="3187000" />
-      <workItem from="1644473881121" duration="511000" />
+      <workItem from="1644473881121" duration="2119000" />
+      <workItem from="1644520260557" duration="245000" />
     </task>
     <servers />
   </component>
