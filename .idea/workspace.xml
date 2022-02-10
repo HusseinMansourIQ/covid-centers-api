@@ -21,6 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="dae75a30-2f1e-4e4a-9973-3eb31280a7cd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firebase-debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +53,10 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.app.js">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/covid-centers-api/public/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="Unnamed" type="NodeJSConfigurationType" nameIsGenerated="true" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -58,11 +64,13 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="JavaScript Debug.index.html" />
       <item itemvalue="Node.js.Unnamed" />
       <item itemvalue="Node.js.app.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="Node.js.app.js" />
       </list>
     </recent_temporary>
@@ -83,7 +91,8 @@
       <workItem from="1644327094969" duration="1553000" />
       <workItem from="1644393779173" duration="600000" />
       <workItem from="1644424092489" duration="1068000" />
-      <workItem from="1644467562528" duration="316000" />
+      <workItem from="1644467562528" duration="3187000" />
+      <workItem from="1644473881121" duration="511000" />
     </task>
     <servers />
   </component>
@@ -111,6 +120,10 @@
       <screen x="0" y="0" width="1676" height="896" />
     </state>
     <state x="610" y="249" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1676.896@0.0.1676.896" timestamp="1644317923258" />
+    <state x="617" y="202" key="FileChooserDialogImpl" timestamp="1644470751401">
+      <screen x="0" y="0" width="1676" height="896" />
+    </state>
+    <state x="617" y="202" key="FileChooserDialogImpl/0.0.1676.896@0.0.1676.896" timestamp="1644470751401" />
     <state width="1654" height="234" key="GridCell.Tab.0.bottom" timestamp="1644295587552">
       <screen x="0" y="0" width="1676" height="896" />
     </state>

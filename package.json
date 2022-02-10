@@ -6,7 +6,6 @@
   "scripts": {
     "test": "test",
     "start": "node app.js"
-
   },
   "repository": {
     "type": "git",
@@ -24,10 +23,11 @@
   "dependencies": {
     "axios": "^0.25.0",
     "cheerio": "^1.0.0-rc.10",
+    "package.json": "^2.0.1",
     "serve": "^13.0.2"
   },
   "engines": {
-    "node": "14.15.1",
+    "node": "12.21.0",
     "npm": "6.14.8"
   }
 }
