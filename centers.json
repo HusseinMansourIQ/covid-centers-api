@@ -1,10 +1,10 @@
 {
   "baghdad": {
     "id": 1,
-      "city_1": {
-        "city_name": {
-          "name": "الكرخ الاولى",
-          "center_1": {
+    "city_1": {
+      "city_name": {
+        "name": "الكرخ الاولى",
+        "center_1": {
           "center_name": "مركز صحي شهداء العطيفية",
           "center_lat": "33.35695414813457",
           "center_lng": "44.3616994430055",
@@ -12,33 +12,36 @@
             "viser"
           ],
           "work_time": "8 am - 2 pm ",
-          "close_day": ["الجمعة"]
+          "close_day": [
+            "الجمعة"
+          ]
         },
-          "center_2": {
-            "center_name": "مركز صحي المنصور",
-            "center_lat": "33.327626672386934",
-            "center_lng": "44.332153566032",
-            "vince_avilable": [
-              "viser"
-            ],
-            "work_time": " 8 am - 2 pm ",
-            "close_day": ["الجمعة"]
-          },
-          "center_3": {
-            "center_name": "مركز صحي القادسية",
-            "center_lat": "33.30259612681546",
-            "center_lng": "44.390032442328014",
-            "vince_avilable": [
-              "viser"
-            ],
-            "work_time": "8 am - 2 pm ",
-            "close_day": ["الجمعة"]
-          }
-
+        "center_2": {
+          "center_name": "مركز صحي المنصور",
+          "center_lat": "33.327626672386934",
+          "center_lng": "44.332153566032",
+          "vince_avilable": [
+            "viser"
+          ],
+          "work_time": " 8 am - 2 pm ",
+          "close_day": [
+            "الجمعة"
+          ]
+        },
+        "center_3": {
+          "center_name": "مركز صحي القادسية",
+          "center_lat": "33.30259612681546",
+          "center_lng": "44.390032442328014",
+          "vince_avilable": [
+            "viser"
+          ],
+          "work_time": "8 am - 2 pm ",
+          "close_day": [
+            "الجمعة"
+          ]
         }
-      },
-
-
+      }
+    },
     "city_name_2": {
       "name": "الرصافة",
       "center_1": {
@@ -49,7 +52,10 @@
           "viser"
         ],
         "work_time": "8:30 am - 1 pm ",
-        "close_day": [" الاحد", "السبت-"],
+        "close_day": [
+          " الاحد",
+          "السبت-"
+        ],
         "phone_number": "07833043542"
       },
       "center_2": {
@@ -72,7 +78,7 @@
         "work_time": "8 am - 2 pm ",
         "close_day": "الجمعة"
       },
-      "center_3": {
+      "center_4": {
         "center_name": "مركز صحي فخر الدين",
         "center_lat": "33.32316627007142",
         "center_lng": "44.42172608878566",
@@ -83,8 +89,6 @@
         "close_day": "الجمعة"
       }
     },
-
-
     "city_3": {
       "city_name": {
         "name": "المنافذ التلقيحية في المستشفيات",
@@ -96,7 +100,9 @@
             "viser"
           ],
           "work_time": "24/7 ",
-          "close_day": ["لا يوجد"]
+          "close_day": [
+            "لا يوجد"
+          ]
         },
         "center_2": {
           "center_name": "مستشفى اليرموك التعليمي",
@@ -106,7 +112,9 @@
             "viser"
           ],
           "work_time": "24/7 ",
-          "close_day": ["لا يوجد"]
+          "close_day": [
+            "لا يوجد"
+          ]
         },
         "center_3": {
           "center_name": "مستشفى الكرخ العام",
@@ -116,12 +124,228 @@
             "viser"
           ],
           "work_time": "24/7 ",
-          "close_day": ["لا يوجد"]
+          "close_day": [
+            "لا يوجد"
+          ]
         }
       }
+    }
+  },
+  "babil": {
+    "id": 1,
+    "city_1": {
+      "city_name": {
+        "name": "قطاع الحلة الاول",
+        "center_1": {
+          "center_name": "مركز صحي المهندسين",
+          "center_lat": "32.454089634393235",
+          "center_lng": "44.4026803888043",
+          "vince_avilable": [
+            "viser"
+          ],
+          "work_time": "8 am - 2 pm ",
+          "close_day": [
+            "الجمعة"
+          ]
+        },
+        "center_2": {
+          "center_name": "مركز صحي ذي الكفل النموذجي",
+          "center_lat": "32.21863667539346",
+          "center_lng": "44.367917442328014",
+          "vince_avilable": [
+            "viser"
+          ],
+          "work_time": " 8 am - 2 pm ",
+          "close_day": [
+            "الجمعة"
+          ]
+        }
+      }
+    },
+    "city_name_2": {
+      "name": "قطاع المسيب",
+      "center_1": {
+        "center_name": "مركز صحي المسيب",
+        "center_lat": "32.775116910193255",
+        "center_lng": "44.28714261578161",
+        "vince_avilable": [
+          "viser"
+        ],
+        "work_time": "8 am - 2 pm ",
+        "close_day": [
+          "الجمعة"
+        ]
+      },
+      "center_2": {
+        "center_name": "مركز صحي الفرات",
+        "center_lat": "32.81155487093674",
+        "center_lng": "44.265522717556735",
+        "vince_avilable": [
+          "viser"
+        ],
+        "work_time": "8 am - 2 pm ",
+        "close_day": "الجمعة"
+      },
+      "center_3": {
+        "center_name": "مركز صحي القريه العصريه",
+        "center_lat": "32.88615848103728",
+        "center_lng": "44.38411984461502",
+        "vince_avilable": [
+          "viser"
+        ],
+        "work_time": "8 am - 2 pm ",
+        "close_day": "الجمعة"
+      },
+      "city_3": {
+        "city_name": "المنافذ التلقيحية في المستشفيات",
+        "center_1": {
+          "center_name": "مستشفى الحلة التعليمي",
+          "center_lat": "32.46005612329528",
+          "center_lng": "44.42391315996821",
+          "vince_avilable": [
+            "viser"
+          ],
+          "work_time": "24/7 ",
+          "close_day": [
+            "لا يوجد"
+          ]
+        },
+        "center_2": {
+          "center_name": "مستشفى الامام الصادق التعليمي",
+          "center_lat": "32.46887156903439",
+          "center_lng": "44.409138556062636",
+          "vince_avilable": [
+            "viser"
+          ],
+          "work_time": "24/7 ",
+          "close_day": [
+            "لا يوجد"
+          ]
+        }
+      }
+    }
+  },
+  "basra": {
+    "id": 1,
+    "city_1": {
+      "city_name": {
+        "name": "قطاع  الزبير",
+        "center_1": {
+          "center_name": "قطاع الزبير للرعاية الصحية الأولية",
+          "center_lat": "30.400123504399733",
+          "center_lng": "47.71096877535419",
+          "vince_avilable": [
+            "viser"
+          ],
+          "work_time": "8 am - 2 pm ",
+          "close_day": [
+            "الجمعة"
+          ]
+        },
+        "center_2": {
+          "center_name": "مركز المربد للرعاية الصحية الاولية",
+          "center_lat": "30.37707795318609",
+          "center_lng": "47.70081706001067",
+          "vince_avilable": [
+            "viser"
+          ],
+          "work_time": " 8 am - 2 pm ",
+          "close_day": [
+            "الجمعة"
+          ]
+        }
+      }
+    },
+    "city_name_2": {
+      "name": "القطاع الاول",
+      "center_1": {
+        "center_name": "مركز المشراق النموذجي الصحي",
+        "center_lat": "30.484997801763157",
+        "center_lng": "47.81219888884452",
+        "vince_avilable": [
+          "viser"
+        ],
+        "work_time": "8 am - 3 pm ",
+        "close_day": [
+          "الجمعة -"
+        ," السبت"
+        ]
+      },
+      "center_2": {
+        "center_name": "مركز البصرة التدريبي النموذجي",
+        "center_lat": "30.490582059506952",
+        "center_lng": "47.803942760008425",
+        "vince_avilable": [
+          "viser"
+        ],
+        "work_time": "8 am - 2:30 pm ",
+        "close_day": ["الجمعة -", " السبت "]
+      },
 
-
+      "city_3": {
+        "city_name": "المنافذ التلقيحية في المستشفيات",
+        "center_1": {
+          "center_name": "مستشفى الصدر التعليمي",
+          "center_lat": "30.50717407683381",
+          "center_lng": "47.85065291406644",
+          "vince_avilable": [
+            "viser"
+          ],
+          "work_time": "24/7 ",
+          "close_day": [
+            "لا يوجد"
+          ]
+        },
+        "center_2": {
+          "center_name": "مستشفى الفيحاء التعليمي",
+          "center_lat": "30.533706915821924",
+          "center_lng": "47.78297246000759",
+          "vince_avilable": [
+            "viser"
+          ],
+          "work_time": "24/7 ",
+          "close_day": [
+            "لا يوجد"
+          ]
+        },
+        "center_3": {
+          "center_name": "مستشفى البصرة التعليمي",
+          "center_lat": "30.493957544427104",
+          "center_lng": "47.805560685140456",
+          "vince_avilable": [
+            "viser"
+          ],
+          "work_time": "24/7 ",
+          "close_day": [
+            "لا يوجد"
+          ]
+        },
+        "center_4": {
+          "center_name": "مستشفى الموانئ العام",
+          "center_lat": "30.552088660443857",
+          "center_lng": "47.78314589069504",
+          "vince_avilable": [
+            "viser"
+          ],
+          "work_time": "24/7 ",
+          "close_day": [
+            "لا يوجد"
+          ]
+        },
+        "center_4": {
+          "center_name": "مستشفى القرنة العام",
+          "center_lat": "31.024517422095105",
+          "center_lng": "47.428861402325765",
+          "vince_avilable": [
+            "viser"
+          ],
+          "work_time": "24/7 ",
+          "close_day": [
+            "لا يوجد"
+          ]
+        }
+      }
     }
   }
-    }
+}
 
