@@ -23,7 +23,9 @@
   "dependencies": {
     "axios": "^0.25.0",
     "cheerio": "^1.0.0-rc.10",
+    "csvtojson": "^2.0.10",
     "package.json": "^2.0.1",
+    "puppeteer": "^13.3.1",
     "serve": "^13.0.2"
   },
   "engines": {

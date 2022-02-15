@@ -3,6 +3,9 @@ const app = express();
 const fs = require('fs');
 const axios = require('axios')
 const cheerio = require('cheerio')
+const puppeteer = require('puppeteer')
+const csv = require('csvtojson')
+const csvPath = "vacc.csv"
 const info = []
 const port = process.env.PORT || 3000
 app.get('/Statistics',function(req,res){
@@ -20,8 +23,33 @@ app.get('/Statistics',function(req,res){
         }).catch((err)=> console.log(err))
 })
 
+app.get('/vaccineStatistics',function(req,res){
 
+    csv()
+        .fromFile(csvPath)
+        .then((json)=>{
+            var len = json.length
+            len = len - 1
+            console.log(json[len])
+            res.send(json[len])
+        })
+})
 
+/*
+app.get('/vaccineStatistics',function(req,res){
+var url = "https://arabgt.com/wp-content/uploads/2017/12/nysn-skylyn-r34-1998_014.jpg"
+    axios.get(url)
+        .then((response)=>{
+            const filestream = fs.createWriteStream("vacc.jpg")
+            res.pipe(filestream)
+            filestream.on("finish",()=>{
+                filestream.close()
+                console.log("done")
+            })
+        })
+
+        })
+*/
 
 
 app.get('/', function(req, res){
