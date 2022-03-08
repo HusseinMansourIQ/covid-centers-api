@@ -11,7 +11,7 @@
           "vince_avilable": [
             "pfizer"
           ],
-          "work_time": "8 am - 2 pm ",
+          "work_time": "2ص - 8م",
           "close_day": "الجمعة"
         },
         "center_2": {
@@ -21,7 +21,7 @@
           "vince_avilable": [
             "pfizer"
           ],
-          "work_time": " 8 am - 2 pm ",
+          "work_time": "2ص - 8م",
           "close_day": "الجمعة"
         },
         "center_3": {
@@ -31,7 +31,7 @@
           "vince_avilable": [
             "pfizer"
           ],
-          "work_time": "8 am - 2 pm ",
+          "work_time": "2ص - 8م",
           "close_day": "الجمعة"
         }
       }
@@ -48,7 +48,7 @@
           "vince_avilable": [
             "pfizer"
           ],
-          "work_time": "8:30 am - 1 pm ",
+          "work_time": "8:30ص - 1م",
           "close_day": "الاحد - السبت",
           "phone_number": "07833043542"
         },
@@ -59,7 +59,7 @@
           "vince_avilable": [
             "pfizer"
           ],
-          "work_time": "8 am - 2 pm ",
+          "work_time": "2ص - 8م",
           "close_day": "الجمعة"
         },
         "center_3": {
@@ -69,7 +69,7 @@
           "vince_avilable": [
             "pfizer"
           ],
-          "work_time": "8 am - 2 pm ",
+          "work_time": "2ص - 8م",
           "close_day": "الجمعة"
         },
         "center_4": {
@@ -79,7 +79,7 @@
           "vince_avilable": [
             "pfizer"
           ],
-          "work_time": "8 am - 2 pm ",
+          "work_time": "2ص - 8م",
           "close_day": "الجمعة"
         }
       }
@@ -135,7 +135,7 @@
           "vince_avilable": [
             "pfizer"
           ],
-          "work_time": "8 am - 2 pm ",
+          "work_time": "2ص - 8م",
           "close_day": "الجمعة"
         },
         "center_2": {
@@ -145,7 +145,7 @@
           "vince_avilable": [
             "pfizer"
           ],
-          "work_time": " 8 am - 2 pm ",
+          "work_time": "2ص - 8م",
           "close_day": "الجمعة"
         }
       }
@@ -160,7 +160,7 @@
           "vince_avilable": [
             "pfizer"
           ],
-          "work_time": "8 am - 2 pm ",
+          "work_time": "2ص - 8م",
           "close_day": "الجمعة"
         },
         "center_2": {
@@ -170,7 +170,7 @@
           "vince_avilable": [
             "pfizer"
           ],
-          "work_time": "8 am - 2 pm ",
+          "work_time": "2ص - 8م",
           "close_day": "الجمعة"
         },
         "center_3": {
@@ -180,7 +180,7 @@
           "vince_avilable": [
             "pfizer"
           ],
-          "work_time": "8 am - 2 pm ",
+          "work_time": "2ص - 8م",
           "close_day": "الجمعة"
         }
       },
@@ -225,7 +225,7 @@
           "vince_avilable": [
             "pfizer"
           ],
-          "work_time": "8 am - 2 pm ",
+          "work_time": "2ص - 8م",
           "close_day": "الجمعة"
         },
         "center_2": {
@@ -235,7 +235,7 @@
           "vince_avilable": [
             "pfizer"
           ],
-          "work_time": " 8 am - 2 pm ",
+          "work_time": "2ص - 8م",
           "close_day": "الجمعة"
         }
       }
@@ -250,7 +250,7 @@
           "vince_avilable": [
             "pfizer"
           ],
-          "work_time": "8 am - 3 pm ",
+          "work_time": "2ص - 8م",
           "close_day": "الجمعة - السبت"
         },
         "center_2": {
@@ -260,7 +260,7 @@
           "vince_avilable": [
             "pfizer"
           ],
-          "work_time": "8 am - 2:30 pm ",
+          "work_time": "8ص - 2:30م",
           "close_day": "الجمعة - السبت "
         }
       }
@@ -325,112 +325,111 @@
     }
   },
   "السليمانية": {
-        "id": 1,
-        "city_1": {
-            "city_name": {
-                "name": "1السليمانية",
-                "center_1": {
-                    "center_name": "مدينة المير سلطا الطبيه",
-                    "center_lat": "35.55748282774833",  
-                    "center_lng": "45.435778225281254",
-                    "vince_avilable": [
-                        "pfizer"
-                    ],
-                    "work_time": "2ص - 8م",
-                    "close_day": "الجمعة"
-                },
-                "center_2": {
-                    "center_name": "مستشفى سافين",
-                    "center_lat": "35.563051262122386",  
-                    "center_lng": "45.44234427238267",
-                    "vince_avilable": [
-                        "pfizer"
-                    ],
-                    "work_time": "2ص - 8م",
-                    "close_day": "الجمعة"
-                },
-                "center_3": {
-                    "center_name": "مستشفى جمهوري",
-                    "center_lat": "35.563278180710554",  
-                    "center_lng": "45.4436531902689",
-                    "vince_avilable": [
-                        "pfizer"
-                    ],
-                    "work_time": "2ص - 8م",
-                    "close_day": "الجمعة"
-                }
-            }
+    "id": 1,
+    "city_1": {
+      "city_name": {
+        "name": "1السليمانية",
+        "center_1": {
+          "center_name": "مدينة المير سلطا الطبيه",
+          "center_lat": "35.55748282774833",
+          "center_lng": "45.435778225281254",
+          "vince_avilable": [
+            "pfizer"
+          ],
+          "work_time": "2ص - 8م",
+          "close_day": "الجمعة"
         },
-        "city_2": {
-            "city_name": {
-                "name": "2السليمانية",
-                "center_1": {
-                    "center_name": "مستشفى زيان",
-                    "center_lat": "35.556784564166215",  
-                    "center_lng": "45.44895323482461",
-                    "vince_avilable": [
-                        "pfizer"
-                    ],
-                    "work_time": "2ص - 8م",
-                    "close_day": "الجمعة"
-                },
-                "center_2": {
-                    "center_name": "مستشفى سافين",
-                    "center_lat": "35.563051262122386",  
-                    "center_lng": "45.44234427238267",
-                    "vince_avilable": [
-                        "pfizer"
-                    ],
-                    "work_time": "2ص - 8م",
-                    "close_day": "الجمعة"
-                },
-                "center_3": {
-                    "center_name": "مستشفى سوما الخاص",
-                    "center_lat": "35.55783195724289",  
-                    "center_lng": "45.44897469387924",
-                    "vince_avilable": [
-                        "pfizer"
-                    ],
-                    "work_time": "2ص - 8م",
-                    "close_day": "الجمعة"
-                }
-            }
+        "center_2": {
+          "center_name": "مستشفى سافين",
+          "center_lat": "35.563051262122386",
+          "center_lng": "45.44234427238267",
+          "vince_avilable": [
+            "pfizer"
+          ],
+          "work_time": "2ص - 8م",
+          "close_day": "الجمعة"
         },
-        "city_3": {
-            "city_name": {
-                "name": "3السليمانية",
-                "center_1": {
-                    "center_name": "مستشفى حريم",
-                    "center_lat": "35.55723284890541",  
-                    "center_lng": "45.46948602213753",
-                    "vince_avilable": [
-                        "pfizer"
-                    ],
-                    "work_time": "2ص - 8م",
-                    "close_day": "الجمعة"
-                },
-                "center_2": {
-                    "center_name": "مستشفى ازمير للانف والحنجرة الخاص",
-                    "center_lat": "35.56121425933333",  
-                    "center_lng": "45.47253558971491",
-                    "vince_avilable": [
-                        "pfizer"
-                    ],
-                    "work_time": "2ص - 8م",
-                    "close_day": "الجمعة"
-                },
-                "center_3": {
-                    "center_name": "مستشفى ازمار",
-                    "center_lat": "35.56250595131496",  
-                    "center_lng": "45.47260776442694",
-                    "vince_avilable": [
-                        "pfizer"
-                    ],
-                    "work_time": "2ص - 8م",
-                    "close_day": "الجمعة"
-                }
-            }
+        "center_3": {
+          "center_name": "مستشفى جمهوري",
+          "center_lat": "35.563278180710554",
+          "center_lng": "45.4436531902689",
+          "vince_avilable": [
+            "pfizer"
+          ],
+          "work_time": "2ص - 8م",
+          "close_day": "الجمعة"
         }
+      }
+    },
+    "city_2": {
+      "city_name": {
+        "name": "2السليمانية",
+        "center_1": {
+          "center_name": "مستشفى زيان",
+          "center_lat": "35.556784564166215",
+          "center_lng": "45.44895323482461",
+          "vince_avilable": [
+            "pfizer"
+          ],
+          "work_time": "2ص - 8م",
+          "close_day": "الجمعة"
+        },
+        "center_2": {
+          "center_name": "مستشفى رابارين",
+          "center_lat": "35.57807087161023",
+          "center_lng": "45.338633709575966",
+          "vince_avilable": [
+            "pfizer"
+          ],
+          "work_time": "2ص - 8م",
+          "close_day": "الجمعة"
+        },
+        "center_3": {
+          "center_name": "مستشفى سوما الخاص",
+          "center_lat": "35.55783195724289",
+          "center_lng": "45.44897469387924",
+          "vince_avilable": [
+            "pfizer"
+          ],
+          "work_time": "2ص - 8م",
+          "close_day": "الجمعة"
+        }
+      }
+    },
+    "city_3": {
+      "city_name": {
+        "name": "3السليمانية",
+        "center_1": {
+          "center_name": "مستشفى حريم",
+          "center_lat": "35.55723284890541",
+          "center_lng": "45.46948602213753",
+          "vince_avilable": [
+            "pfizer"
+          ],
+          "work_time": "2ص - 8م",
+          "close_day": "الجمعة"
+        },
+        "center_2": {
+          "center_name": "مستشفى ازمير للانف والحنجرة الخاص",
+          "center_lat": "35.56121425933333",
+          "center_lng": "45.47253558971491",
+          "vince_avilable": [
+            "pfizer"
+          ],
+          "work_time": "2ص - 8م",
+          "close_day": "الجمعة"
+        },
+        "center_3": {
+          "center_name": "مستشفى ازمار",
+          "center_lat": "35.56250595131496",
+          "center_lng": "45.47260776442694",
+          "vince_avilable": [
+            "pfizer"
+          ],
+          "work_time": "2ص - 8م",
+          "close_day": "الجمعة"
+        }
+      }
     }
-  
+  }
 }
